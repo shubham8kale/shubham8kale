@@ -10,7 +10,7 @@ I publish the evaluation numbers, including the unflattering ones.
 
 ### Selected work
 
-**[AI Auditor](https://github.com/shubham8kale/ai-auditor)** · **[live demo](https://ai-auditor-o2ym.onrender.com/)** *(repository and demo are currently access-restricted; a public read-only demo is planned)*
+**[AI Auditor](https://github.com/shubham8kale/ai-auditor)** · **[live demo](https://ai-auditor-o2ym.onrender.com/)** *(repository and demo are currently access-restricted)*
 
 An audit preparation and review workspace: five gated stages from client onboarding through invoice testing, each drafted by the system and approved by a human before the next can run. A vision LLM extracts document facts from PDFs, scans and spreadsheets through a strict JSON-schema contract and proposes judgments; deterministic Python owns materiality, sample selection, and the amount, entity and period checks, so **the model drafts but never signs off**. 16 policy-cited evidence checks, row-level security on every table, versioned approvals under row locks, and a staleness cascade on every correction. FastAPI, React/TypeScript/Vite, Supabase, one Docker service on Render, 53 tests.
 
