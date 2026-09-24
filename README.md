@@ -4,8 +4,6 @@
 
 Analytics Engineer at Quantegy Analytics, where I shipped an LLM-powered navigation assistant (Claude API) into a production analytics platform serving 50+ daily users, and own the Dagster-orchestrated ELT moving 4M+ records into Snowflake behind it. M.S. Data Science, Stony Brook University.
 
-I publish the evaluation numbers, including the unflattering ones.
-
 ---
 
 ### Selected work
